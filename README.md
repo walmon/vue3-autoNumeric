@@ -1,6 +1,8 @@
 ## vue-autoNumeric
 
-A Vue.js component that wraps the awesome [AutoNumeric](https://github.com/autoNumeric/autoNumeric/) input formatter library
+A Vue.js component that wraps the awesome [AutoNumeric](https://github.com/autoNumeric/autoNumeric/) input formatter library.
+
+**This fork makes it compatible with Vue 3, given that today the [original repo](https://github.com/autoNumeric/vue-autoNumeric) does not support Vue 3.**
 
 [![NPM][nodei-image]][nodei-url]
 <br>
