@@ -240,8 +240,8 @@ Contact and tell me! :)
 [downloads-url]: http://badge.fury.io/js/vue-autonumeric
 [gitter-image]: https://img.shields.io/badge/gitter-autoNumeric%2FautoNumeric-brightgreen.svg
 [gitter-url]: https://gitter.im/autoNumeric/vue-autoNumeric
-[npm-image]: https://img.shields.io/npm/v/vue-autonumeric.svg
-[npm-url]: https://npmjs.org/package/vue-autonumeric
+[npm-image]: https://img.shields.io/npm/v/@walmon/vue3-autonumeric.svg
+[npm-url]: https://www.npmjs.com/package/@walmon/vue3-autonumeric
 [nodei-image]: https://nodei.co/npm/vue-autonumeric.png?downloads=true&downloadRank=true&stars=true
 [nodei-url]: https://nodei.co/npm/vue-autonumeric
 [snyk-image]: https://snyk.io/test/github/autoNumeric/vue-autoNumeric/badge.svg
